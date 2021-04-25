@@ -7,6 +7,6 @@ const server = http.createServer((req, res) => {
     res.end("response from server - 3.\n");
 });
 
-server.listen(3002, 'localhost', () => {
-    console.log('running on http://localhost:3002/');
+server.listen(3003, 'localhost', () => {
+    console.log('running on http://localhost:3003/');
 });
