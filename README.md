@@ -1,5 +1,7 @@
 # nginx-handbook-projects
 
+<a href="https://www.buymeacoffee.com/fhsinchy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
+
 ![...](./nginx-handbook-github.png)
 
 This repository holds the code for my NGINX Handbook article on [__freeCodecamp__](https://freecodecamp.org). In the article the readers work through __four__ demo projects meant to explain a single use case of NGINX. These projects are as follows:
