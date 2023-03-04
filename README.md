@@ -16,3 +16,5 @@ This repository holds the code for my NGINX Handbook article on [__freeCodecamp_
 - Understanding of web applications and a programming language such as JavaScript or PHP.
 
 It's fine if you haven't worked with JavaScript or PHP that much. Having a basic knowledge of executing scripts with them will suffice.
+
+Love you.
